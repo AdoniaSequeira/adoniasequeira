@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adonia Sequeira
 
 🎓 M.S. in Computer Science @ George Washington University (May 2025)  
-🏆 GWU Student Employee of the Year – Professionalism & Interpersonal Skills  
+🏆 GWU Student Employee of the Year – GW Professionalism, Effective Communication & Interpersonal Skills  
 💻 Former Technical Project Assistant @ GW SEAS Career Services  
 ☁️ AWS & Azure | NLP, ML, Cloud | Full-Stack & Data-Driven Applications  
 📍 Washington, D.C. | Open to roles in Software, Cloud, or AI/ML Engineering
