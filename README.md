@@ -4,7 +4,7 @@
 🏆 GWU Student Employee of the Year – GW Professionalism, Effective Communication & Interpersonal Skills  
 💻 Former Technical Project Assistant @ GW SEAS Career Services  
 ☁️ AWS & Azure | NLP, ML, Cloud | Full-Stack & Data-Driven Applications  
-📍 Washington, D.C. | Open to roles in Software, Cloud, or AI/ML Engineering
+📍 Washington, D.C. | Open to roles in Software, Cloud, Data or AI/ML Engineering
 
 ---
 
@@ -53,7 +53,7 @@ I'm a graduate student and developer passionate about building intelligent syste
 - 💼 1.5+ years experience in Technical Assistant roles at GWU Career Services
 
 ---
-- ⚡ Fun fact: Based in the U.S. capital—Washington, D.C.—I love exploring museums, visiting monuments, and trying out different cuisines!
+## ⚡ Fun fact: Based in the U.S. capital—Washington, D.C.—I love exploring museums, visiting monuments, and trying out different cuisines!
 
 ## 📫 Let’s Connect
 
