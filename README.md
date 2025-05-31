@@ -53,7 +53,13 @@ I'm a graduate student and developer passionate about building intelligent syste
 - 💼 1.5+ years experience in Technical Assistant roles at GWU Career Services
 
 ---
-## ⚡ Fun fact: Based in the U.S. capital—Washington, D.C.—I love exploring museums, visiting monuments, and trying out different cuisines!
+## ✨ Beyond the Code
+
+- 🗺️ Based in Washington, D.C., I enjoy exploring world-class museums, iconic monuments, and diverse local cuisines.  
+- 🤝 I actively attend **tech conferences, AI summits, and developer meetups** to connect with professionals across the tech landscape.  
+  - Recently attended **GHC 2024 (Grace Hopper Celebration)** and the **NVIDIA AI Summit** — and I’m looking forward to many more exciting tech events ahead!  
+- 📚 I also **create resources for students in tech** to share what I’ve learned and help others succeed in their own journeys.  
+- 🌍 I thrive in collaborative environments where learning, creativity, and impact come together.
 
 ## 📫 Let’s Connect
 
