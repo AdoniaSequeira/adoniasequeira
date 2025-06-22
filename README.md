@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adonia Sequeira
 
 🎓 M.S. in Computer Science @ George Washington University (May 2025)  
-🏆 GWU Student Employee of the Year – GW Professionalism, Effective Communication & Interpersonal Skills  
-💻 Former Technical Project Assistant @ GW SEAS Career Services  
+🏆 GWU Student Employee of the Year 2025 – GW Professionalism, Effective Communication & Interpersonal Skills  
+💻 Former Technical Project Assistant III @ GW SEAS Career Services  
 ☁️ AWS & Azure | NLP, ML, Cloud | Full-Stack & Data-Driven Applications  
 📍 Washington, D.C. | Open to roles in Software, Cloud, Data or AI/ML Engineering
 
@@ -22,16 +22,16 @@ I'm a graduate student and developer passionate about building intelligent syste
 
 ## 🚀 Featured Projects
 
-- **📧 Spam Classifier with BERT & USE**  
+- **Spam Classifier with BERT & USE**  
   Trained deep learning models for email spam classification using modern embeddings. Achieved 98% accuracy with LLMs and neural nets.
 
-- **✈️ Flight Delay Prediction with XGBoost**  
+- **Flight Delay Prediction with XGBoost**  
   Tackled real-world airline data with advanced feature engineering and ensemble modeling. Reached 99% accuracy on flight delay predictions.
 
-- **📊 SEAS Career Dashboard**  
+- **SEAS Career Dashboard**  
   Analyzed Handshake & UConnect data for GWU Career Services; enhanced reporting & engagement strategies using actionable insights.
 
-- **🌐 QuizNozz** – Interactive Web-Based Learning Platform  
+- **QuizNozz** – Interactive Web-Based Learning Platform  
   Designed a dynamic 13-page quiz site using HTML, CSS, JS, PHP & MySQL, complete with animations, invitation codes & UX-focused navigation.
 
 ---
@@ -57,7 +57,7 @@ I'm a graduate student and developer passionate about building intelligent syste
 
 - 🗺️ Based in Washington, D.C., I enjoy exploring world-class museums, iconic monuments, and diverse local cuisines.  
 - 🤝 I actively attend **tech conferences, AI summits, and developer meetups** to connect with professionals across the tech landscape.  
-  - Recently attended **GHC 2024 (Grace Hopper Celebration)** and the **NVIDIA AI Summit** and I’m looking forward to many more exciting tech events ahead!  
+  - Recently attended **GHC 2024 (Grace Hopper Celebration)**, **NVIDIA AI Summit** and the **AWS Summit** and I’m looking forward to many more exciting tech events ahead!  
 - 📚 I also **create resources for students in tech** to share what I’ve learned and help others succeed in their own journeys.  
 - 🌍 I thrive in collaborative environments where learning, creativity, and impact come together.
 
