@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Adonia Sequeira
 
-🎓 M.S. in Computer Science @ George Washington University (May 2025)  
+🎓 M.S. in Computer Science @ George Washington University (May 2025) 
+📜 Dean’s List (2023–2025)
 🏆 GWU Student Employee of the Year 2025 – GW Professionalism, Effective Communication & Interpersonal Skills  
 💻 Former Technical Project Assistant III @ GW SEAS Career Services  
 ☁️ AWS & Azure | NLP, ML, Cloud | Full-Stack & Data-Driven Applications  
@@ -47,19 +48,19 @@ I'm a graduate student and developer passionate about building intelligent syste
 
 ## 🏅 Highlights
 
-- 📜 IEEE GCAT 2022: Published NLP-powered 3D German Language Tutor  
-- 🧪 130+ technical issues resolved in SEAS support, with 1000+ views on tech case study  
-- 🎮 2D Android games built in Unity with a 4.9★ Play Store rating  
-- 💼 1.5+ years experience in Technical Assistant roles at GWU Career Services
+- IEEE GCAT 2022: Published NLP-powered 3D German Language Tutor  
+- 130+ technical issues resolved in SEAS support, with 1000+ views on tech case study  
+- 2D Android games built in Unity with a 4.9★ Play Store rating  
+- 1.9+ years experience in Technical Assistant roles at GWU Career Services
 
 ---
 ## ✨ Beyond the Code
 
-- 🗺️ Based in Washington, D.C., I enjoy exploring world-class museums, iconic monuments, and diverse local cuisines.  
-- 🤝 I actively attend **tech conferences, AI summits, and developer meetups** to connect with professionals across the tech landscape.  
+- Based in Washington, D.C., I enjoy exploring world-class museums, iconic monuments, and diverse local cuisines.  
+- I actively attend **tech conferences, AI summits, and developer meetups** to connect with professionals across the tech landscape.  
   - Recently attended **GHC 2024 (Grace Hopper Celebration)**, **NVIDIA AI Summit** and the **AWS Summit** and I’m looking forward to many more exciting tech events ahead!  
-- 📚 I also **create resources for students in tech** to share what I’ve learned and help others succeed in their own journeys.  
-- 🌍 I thrive in collaborative environments where learning, creativity, and impact come together.
+- I also **create resources for students in tech** to share what I’ve learned and help others succeed in their own journeys.  
+- I thrive in collaborative environments where learning, creativity, and impact come together.
 
 ## 📫 Let’s Connect
 
